@@ -1,4 +1,5 @@
 LIVE WEBSITE LINK::  https://hulu-app-swart.vercel.app/
+
 Technology Used: ReactJs, Nextjs, TailwindCss, API Call
 
 
