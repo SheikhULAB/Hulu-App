@@ -1,3 +1,7 @@
+LIVE WEBSITE LINK::  https://hulu-app-swart.vercel.app/
+Technology Used: ReactJs, Nextjs, TailwindCss, API Call
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
